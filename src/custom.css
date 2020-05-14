@@ -1,0 +1,95 @@
+body{
+    background: rgb(30, 30, 30)!important;
+    color: white;
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+body *{
+    color: rgb(189, 189, 189)!important;
+}
+
+.gridster-block{
+    background: rgb(37, 37, 37)!important;
+}
+
+.gridster-block *{
+    background: transparent!important;
+}
+
+.comment-box {
+    background: rgb(37, 37, 37)!important;
+}
+
+.comment-box *{
+    background: transparent!important;
+}
+
+.flatbutton.green {
+    background-color: rgb(14, 99, 156)!important;
+    border-radius: 0px!important;
+}
+
+.spaceswitcher-wrapper .spaceswitcher-button {
+    border-top: 1px solid rgb(14, 99, 156)!important;
+    border-right: 1px solid rgb(14, 99, 156)!important;
+    border-left: 1px solid rgb(14, 99, 156)!important;
+    border-radius: 0px!important;
+    background: url(/images/mastersprite16-two_august312018.png) 4px -334px no-repeat rgb(14, 99, 156)!important;
+}
+
+#stream .object .avatar img {
+    border-radius: 2px;
+}
+
+.title a{
+    color: orange!important;
+}
+
+.dashboard #home_stream {
+    background: rgb(37, 37, 37)!important;
+}
+
+.dashboard .presence-list>li a.avatar .indicator {
+    background-color: #6ABD3D!important;
+    border: 1px solid rgb(37, 37, 37)!important;
+}
+
+.dashboard .grid-tile {
+    background: rgb(37, 37, 37)!important;
+}
+
+.dashboard .grid-tile * {
+    background: transparent!important;
+}
+
+.space-switcher-wrapper.highlight {
+    background: rgb(37, 37, 37)!important;
+}
+
+#header-global {
+    background: rgb(50, 50, 50)!important;
+}
+
+#header-global .nav-box>.inner {
+    background: rgb(50, 50, 50)!important;
+}
+
+#header-global .nav-box>.inner .user-functions{
+    background: rgb(50, 50, 50)!important;
+}
+
+#header-global .podio-search-box {
+    background: rgb(50, 50, 50)!important;
+}
+
+#header-global .nav-box>.inner .user-navigation>li>a {
+    border-right: 1px solid rgb(37, 37, 37)!important;
+}
+
+#header-global {
+    border-bottom: 1px solid rgb(37, 37, 37)!important;
+}
+
+#header-global .podio-search-box {
+    border-bottom: 1px solid rgb(37, 37, 37)!important;
+}
