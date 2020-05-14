@@ -93,3 +93,21 @@ body *{
 #header-global .podio-search-box {
     border-bottom: 1px solid rgb(37, 37, 37)!important;
 }
+
+/* Icons */
+
+.icon-16-nav-blue-connections {
+    background-image: url(/images/icons/navigation/white-connections.png?sprite=main-nav)!important;
+}
+
+.icon-16-grey-calendar {
+    background: url(/images/mastersprite16-one_july212017.png) 0 -65px no-repeat!important;
+}
+
+.icon-16-grey-tasks {
+    background: url(/images/mastersprite16-one_july212017.png) 0 -193px no-repeat!important;
+}
+
+.icon-nav {
+    background: url(/images/sprite-nav-29apr2013.png) no-repeat!important;
+}
